@@ -1,4 +1,4 @@
-- 👋🏼 Hi, I’m @fxizxn
+- 👋🏼 Hi, I’m Faizan !!
 - 🧩 I’m interested in Web Development,Cybersecurity & UI/UX
 - 💡 I’m currently learning Js & React 
 - 🤝🏼 I’m looking to collaborate on issues and bug repository 
