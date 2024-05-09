@@ -1,5 +1,5 @@
 # About Me:
-- 👋🏼 Hi, I’m Faizan !!<br>- 🧩 Aspiring Cybersecurity, Cloud Security<br>- 💡 Languages: C++, Python<br>- 🤝🏼 I’m looking to collaborate on issues and bug repository <br>- 📫 How to reach me via email- fxizxn.dev@gmail.com<br>- 👾 Tools: AWS, Splunk
+👋🏼 Hi, I’m Faizan !!<br>- 🧩 Aspiring Cybersecurity, Cloud Security<br>- 💡 Languages: C++, Python<br>- 🤝🏼 I’m looking to collaborate on issues and bug repository <br>- 📫 How to reach me via email- fxizxn.dev@gmail.com<br>- 👾 Tools: AWS, Splunk
 
 
 ## 🌐 Socials:
