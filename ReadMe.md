@@ -1,5 +1,5 @@
 # About Me:
-👋🏼 Hi, I’m Faizan!<br>- 🧩 Aspiring Cloud Engineer, DevOps<br>- 💡 Languages: C++, Python<br>- 🤝🏼 I’m actively looking for collaboration<br>- 📫 How to reach me via email- fxizxn.dev@gmail.com<br>- 👾 Tools: AWS, Splunk
+👋🏼 Hi, I’m Faizan!<br>- 🧩 Aspiring Cloud Engineer, DevOps<br>- 💡 Languages: C++, Python<br>- 🤝🏼 I’m actively looking for collaboration<br>- 📫 How to reach me via email- fxizxn.dev@gmail.com<br>- 👾 Tools: AWS, Docker, Jenkins, Ansible, Terrform, K8s.
 
 
 ## 🌐 Socials:
